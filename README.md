@@ -12,7 +12,15 @@ A private, local-first leadership preparation system for AT&T’s Management Dev
 - **Connection log:** local notes with Markdown export
 - **Research notes:** source links, confidence labels, and explicit gaps
 
-## Recommended way to open it
+## Deploy to Vercel instantly
+
+You can deploy this Field Manual to your Vercel account instantly with one click. It is 100% safe to deploy publicly because all personal facts and notes you enter in the app are stored strictly in your browser's local storage and are never committed to GitHub or sent to any server.
+
+👉 **[Deploy to Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTechhqAii%2Fat-t-mdp-leadership-playbook)**
+
+Once deployed, you can access the Field Manual on your phone or tablet on the flight, fill in your details, and rehearse your pitches with the local audio recorder!
+
+## Recommended way to open it locally
 
 In Terminal:
 
